@@ -1,0 +1,779 @@
+Target Id,Target Label,Action Id,Action Label
+0,UseAnalyticalBalance,65,clean inner wall of container
+0,UseAnalyticalBalance,66,place a piece of paper on weighing pan
+0,UseAnalyticalBalance,67,zeroing set
+0,UseAnalyticalBalance,68,place weighing sample on weighing pan and read
+1,PasteCarSticker,460,clean the window surface
+1,PasteCarSticker,461,tear off the front of the sticker
+1,PasteCarSticker,462,put the sticker on the window
+1,PasteCarSticker,463,press the sticker
+1,PasteCarSticker,464,tear off the other side of the sticker
+2,AssembleBed,559,place the bed board
+2,AssembleBed,560,place the board on each side
+2,AssembleBed,561,place board at the bottom
+2,AssembleBed,562,install legs on the bed
+2,AssembleBed,563,put all bed boxes together
+2,AssembleBed,564,install head of the bed
+2,AssembleBed,565,place mattress on the bed
+3,AssembleSofa,434,install the sofa back
+3,AssembleSofa,435,install armrest on sofa
+3,AssembleSofa,436,install stand of the seat
+3,AssembleSofa,437,place cushion and backrest
+3,AssembleSofa,438,install legs of sofa
+3,AssembleSofa,439,put on sofa cover
+3,AssembleSofa,440,put every parts mentioned together
+4,AssembleCabinet,612,assemble the frame
+4,AssembleCabinet,613,install horizontal boards
+4,AssembleCabinet,614,install vertical boards
+5,AssembleDesktopPC,270,install the motherboard
+5,AssembleDesktopPC,271,install the fan
+5,AssembleDesktopPC,272,install peripherals inside the case
+5,AssembleDesktopPC,273,plug cable and wire
+5,AssembleDesktopPC,274,install peripherals outside the case
+6,BandageDogPaw,58,cover injury with bandage
+6,BandageDogPaw,59,wind legs with bandage
+6,BandageDogPaw,60,cut the bandage
+7,ChangeBikeChain,114,check the old chain
+7,ChangeBikeChain,115,cut the old chain
+7,ChangeBikeChain,116,take old chain away
+7,ChangeBikeChain,117,install the new chain
+7,ChangeBikeChain,118,ajust the chain length
+7,ChangeBikeChain,119,link the new chain
+8,DrawBlood,676,tie the tourniquet
+8,DrawBlood,677,disinfect
+8,DrawBlood,678,collect blood
+8,DrawBlood,679,pull out the needle and press with cotton
+9,BlowSugar,154,knead the raw sugar
+9,BlowSugar,155,blow the raw sugar
+9,BlowSugar,156,paint on sugar
+10,BoilNoodles,548,add seasoning to the boiling water
+10,BoilNoodles,549,pour the noodles into the water and stir
+10,BoilNoodles,550,take a little bit noodles and taste it
+10,BoilNoodles,551,pour the cooked noodles
+11,PolishCar,713,clean the surface
+11,PolishCar,714,apply polishing paste on the surface
+11,PolishCar,715,polish with polisher
+11,PolishCar,716,clean the scratch
+12,FuelCar,684,open the fuel tank cap
+12,FuelCar,685,insert oil gun in the car
+12,FuelCar,686,operate the control panel
+12,FuelCar,687,pullthe  oil gun out
+12,FuelCar,688,close the fuel tank cap
+13,ChangeCarTire,259,unscrew the screw
+13,ChangeCarTire,260,jack up the car
+13,ChangeCarTire,261,remove the tire
+13,ChangeCarTire,262,put on the tire
+13,ChangeCarTire,263,tighten screws
+14,CarvePumpkin,724,clean the pumpkin
+14,CarvePumpkin,725,remove pumpkin pedicle
+14,CarvePumpkin,726,clean up the interior of thepumpkin
+14,CarvePumpkin,727,draw an outline
+14,CarvePumpkin,728,carve along the outline
+14,CarvePumpkin,729,place light into pumpkin
+15,ChangeBatteryOfWatch,79,check the type of the back cover
+15,ChangeBatteryOfWatch,80,open the back cover
+15,ChangeBatteryOfWatch,81,replace the battery
+15,ChangeBatteryOfWatch,82,install the back cover and waterproof ring
+16,ChangeBikeTires,232,unload the wheel
+16,ChangeBikeTires,233,remove the inner tube
+16,ChangeBikeTires,234,remove the tire
+16,ChangeBikeTires,235,load the tire
+16,ChangeBikeTires,236,load the inner tube
+16,ChangeBikeTires,237,pump up the tire
+16,ChangeBikeTires,238,load the wheel
+17,ChangeGuitarStrings,275,cut off and remove the old string
+17,ChangeGuitarStrings,276,fix the new string on the lower part of the guitar
+17,ChangeGuitarStrings,277,fix the new string on the head of the guitar
+17,ChangeGuitarStrings,278,adjust the tightness of the new string
+18,ChangeTonerCartridge,608,open the front door or cover of the printer
+18,ChangeTonerCartridge,609,take out the toner cartridge
+18,ChangeTonerCartridge,610,insert a new toner cartridge
+18,ChangeTonerCartridge,611,close the front door or cover of the printer
+19,CleanLaptopKeyboard,538,power off
+19,CleanLaptopKeyboard,539,pick up the button
+19,CleanLaptopKeyboard,540,clean the inside of the button
+19,CleanLaptopKeyboard,541,wipe the keyboard
+20,CleanRustyPot,207,pour salt and rust removal liquid
+20,CleanRustyPot,208,rub back and forth with potatoes or rust remover
+20,CleanRustyPot,209,rinse the pot
+20,CleanRustyPot,210,add some oil to the pot
+20,CleanRustyPot,211,heat the pot
+21,CleanHamsterCage,593,remove the hamster from the hamster cage
+21,CleanHamsterCage,594,remove the toy and paper bed from the hamster cage
+21,CleanHamsterCage,595,clean toys and hamster cages
+21,CleanHamsterCage,596,move the toy and paper bed into the hamster cage
+21,CleanHamsterCage,597,put the hamster back into the hamster cage
+22,CleanFish,105,cut the head
+22,CleanFish,106,remove the intestines and blood vessels
+22,CleanFish,107,scratch scales
+22,CleanFish,108,cut off the tail and fin
+22,CleanFish,109,remove the gill
+23,CleanShrimp,705,remove the head
+23,CleanShrimp,706,remove the shrimp shell
+23,CleanShrimp,707,remove the tail
+23,CleanShrimp,708,remove the vein
+24,CleanToilet,299,apply detergent to the intertior of the toilet
+24,CleanToilet,300,scrub the toilet interior
+24,CleanToilet,301,flush and wash the interior
+24,CleanToilet,302,apply detergent to the external side
+24,CleanToilet,303,wipe the external side
+25,CleanBathtub,46,make the detergent
+25,CleanBathtub,47,apply detergent to bathtub
+25,CleanBathtub,48,dip detergent with rag
+25,CleanBathtub,49,scrub the bathtub
+25,CleanBathtub,50,clean bathtub with water
+26,CleanCementFloor,527,make the detergent
+26,CleanCementFloor,528,dip detergent with rag or apply detergent
+26,CleanCementFloor,529,clean the floor
+26,CleanCementFloor,530,wash the floor
+26,CleanCementFloor,531,polish the floor
+27,CleanWoodenFloor,641,sweep the floor
+27,CleanWoodenFloor,642,use vacuum cleaner to clean
+27,CleanWoodenFloor,643,wet the mop
+27,CleanWoodenFloor,644,make the  detergent
+27,CleanWoodenFloor,645,apply detergent
+27,CleanWoodenFloor,646,mop the floor
+27,CleanWoodenFloor,647,wash the floor
+28,CookOmelet,16,pour the egg into the bowl
+28,CookOmelet,17,stir the egg
+28,CookOmelet,18,pour the egg into the pot
+28,CookOmelet,19,fry eggs
+28,CookOmelet,20,put seasoning in the egg
+28,CookOmelet,21,pour the egg onto the plate
+29,PlayCurling,257,push curling
+29,PlayCurling,258,brush ice floor
+30,CutMango,340,cut the wide side
+30,CutMango,341,remove the core
+30,CutMango,342,cut into strips and pieces
+30,CutMango,343,cut the flesh
+30,CutMango,344,peel
+31,CutAndRestoreRopeTrick,225,show the whole rope again
+31,CutAndRestoreRopeTrick,226,knot the rope
+31,CutAndRestoreRopeTrick,227,cut the rope
+31,CutAndRestoreRopeTrick,228,show the whole rope again
+32,CutCantaloupe,603,cut off the edge
+32,CutCantaloupe,604,peel
+32,CutCantaloupe,605,cut in half
+32,CutCantaloupe,606,dig out the seeds with spoon
+32,CutCantaloupe,607,slice the pulp
+33,CutGrapeFruit,637,cut both ends and remove fruit seeds
+33,CutGrapeFruit,638,remove the peel
+33,CutGrapeFruit,639,slice the pulp
+33,CutGrapeFruit,640,cut in half
+34,WashDish,360,add detergent and make bubble
+34,WashDish,361,wipe the dish
+34,WashDish,362,rinse the dish
+34,WashDish,363,put dish in dishwasher
+34,WashDish,364,take dish out
+35,RaiseFlag,345,line up for admission
+35,RaiseFlag,346,expand the flag
+35,RaiseFlag,347,raise the national flag
+36,GluePingPongRubber,69,remove old rubber and glue
+36,GluePingPongRubber,70,glue on the back of the rubber
+36,GluePingPongRubber,71,glue on the paddle
+36,GluePingPongRubber,72,put rubber on paddle
+36,GluePingPongRubber,73,cut the rubber
+36,GluePingPongRubber,74,attach tape to the edge of the paddle
+37,Graft,328,cut branches
+37,Graft,329,connect branches
+37,Graft,330,wind the junction to fasten the connection
+38,ThrowHammer,776,pre-swing
+38,ThrowHammer,777,rotate body and accelerate the hammer
+38,ThrowHammer,778,throw the hammer out
+39,HangWallpaper,469,measure and mark the wall
+39,HangWallpaper,470,crop the wallpaper
+39,HangWallpaper,471,apply glue to the wall and wallpaper
+39,HangWallpaper,472,paste and level the wallpaper
+39,HangWallpaper,473,cut out a hole
+39,HangWallpaper,474,loosen the outer cover of a switch or socket
+39,HangWallpaper,475,stuff the wallpaper into the loose outer cover
+39,HangWallpaper,476,tighten the outer cover of the switch or socket
+39,HangWallpaper,477,clean the wall
+39,HangWallpaper,478,wipe or polish the wall
+39,HangWallpaper,479,make the glue
+39,HangWallpaper,480,dip the glue
+40,BandageHead,717,place gasket at injury
+40,BandageHead,718,wind bandage around head
+40,BandageHead,719,knot at the end of the bandage
+41,ArcWeld,585,hold electrode with a welding tong
+41,ArcWeld,586,wear a eye protection helmet
+41,ArcWeld,587,weld along the weld line
+41,ArcWeld,588,clean weld line with a hammer
+42,CleanLeatherSeat,516,apply detergent to leather
+42,CleanLeatherSeat,517,wipe the detergent
+42,CleanLeatherSeat,518,clean the surface
+43,DoLinoPrinting,441,draw black patterns
+43,DoLinoPrinting,442,transfer pattern to board or tarpaulin
+43,DoLinoPrinting,443,scrape tarpaulin without ink
+43,DoLinoPrinting,444,cut the tarpaulin
+43,DoLinoPrinting,445,mark the area that needs to be inked
+43,DoLinoPrinting,446,ink the marked area
+43,DoLinoPrinting,447,transfer print
+44,DrillHole,407,draw lines to mark the hole
+44,DrillHole,408,find the position of the hole
+44,DrillHole,409,drill with an electric drill
+45,FixLaptopScreenScratches,34,apply toothpaste or other cleaning agent to scratch
+45,FixLaptopScreenScratches,35,wipe the scratch with cloth
+45,FixLaptopScreenScratches,36,wipe the toothpaste
+46,LoadGreaseGun,313,pull out a lock lever at bottom of gun
+46,LoadGreaseGun,314,unscrew gun head
+46,LoadGreaseGun,315,take out old grease container
+46,LoadGreaseGun,316,put in a new grease container
+46,LoadGreaseGun,317,open the lid of new container
+46,LoadGreaseGun,318,screw gun head back
+46,LoadGreaseGun,319,"try to press gun head, spray residual old grease"
+47,MakeFlowerCrown,304,prepare the frame
+47,MakeFlowerCrown,305,prepare flower
+47,MakeFlowerCrown,306,stick or bind flower to the frame
+48,MakeFlowerPress,666,put flower in book
+48,MakeFlowerPress,667,press book or heat flower
+48,MakeFlowerPress,668,take out dry flowers
+48,MakeFlowerPress,669,use dried flower to place pattern and fix it
+49,MakeChocolate,157,add raw materials
+49,MakeChocolate,158,mix raw materials
+49,MakeChocolate,159,put materials into mold
+49,MakeChocolate,160,take out chocolate
+50,MakeCookie,293,pour raw materials
+50,MakeCookie,294,mix raw materials
+50,MakeCookie,295,shape cookie
+50,MakeCookie,296,bake cookies
+51,MakeHummus,194,add raw materials
+51,MakeHummus,195,mix raw materials
+51,MakeHummus,196,pour bean paste into plate
+51,MakeHummus,197,invert seasoning
+52,MakePaperEasterBaskets,381,"process (crop, fold) paper"
+52,MakePaperEasterBaskets,382,paste paper into base of paper basket
+52,MakePaperEasterBaskets,383,stick handle to paper basket
+53,MakeYoutiao,552,pour raw materials
+53,MakeYoutiao,553,stir raw materials
+53,MakeYoutiao,554,knead together
+53,MakeYoutiao,555,flatten the dough
+53,MakeYoutiao,556,cut into strips
+53,MakeYoutiao,557,press the strips in the middle with a board
+53,MakeYoutiao,558,fry the dough
+54,PatchBikeInnerTube,401,remove inner tube
+54,PatchBikeInnerTube,402,look for leaks
+54,PatchBikeInnerTube,403,use sandpaper/metal to polish rubber near leak
+54,PatchBikeInnerTube,404,apply glue
+54,PatchBikeInnerTube,405,paste patch
+54,PatchBikeInnerTube,406,put inner tube back
+55,RefillMechanicalPencils,545,remove cap
+55,RefillMechanicalPencils,546,put lead into the pen
+55,RefillMechanicalPencils,547,buckle the cap
+56,RemoveCrayonFromWalls,133,apply cleaning agent
+56,RemoveCrayonFromWalls,134,use a hair dryer to blow hot wall
+56,RemoveCrayonFromWalls,135,wipe wall with detergent
+56,RemoveCrayonFromWalls,136,clean wall with a clean cloth
+57,ReplaceCarWindow,41,remove surface of the door
+57,ReplaceCarWindow,42,remove old glass from window lift
+57,ReplaceCarWindow,43,glue on window frame
+57,ReplaceCarWindow,44,install new glass on window lift
+57,ReplaceCarWindow,45,install the door
+58,ReplaceBatteryOnKeyToCar,120,open the car key cover
+58,ReplaceBatteryOnKeyToCar,121,take out the car key battery
+58,ReplaceBatteryOnKeyToCar,122,put in the battery
+58,ReplaceBatteryOnKeyToCar,123,close the car key cover
+59,ReplaceBatteryOnTVControl,692,open cover
+59,ReplaceBatteryOnTVControl,693,remove battery
+59,ReplaceBatteryOnTVControl,694,put battery in
+59,ReplaceBatteryOnTVControl,695,close cover
+60,UseNetiPot,598,add a small amount of salt to Neti Pot
+60,UseNetiPot,599,add water to Neti Pot
+60,UseNetiPot,600,shake and stir
+60,UseNetiPot,601,fill a nostril with saline and do the same to the other nostril
+60,UseNetiPot,602,wipe nose
+61,UseEpinephrineAuto-injector,673,unplug protection head
+61,UseEpinephrineAuto-injector,674,plunge into thigh
+61,UseEpinephrineAuto-injector,675,pull out after a period of time
+62,UseTripleBeamBalance,425,adjust the balance to the horizontal position
+62,UseTripleBeamBalance,426,correct the balance zero
+62,UseTripleBeamBalance,427,put the sample to be measured on the balance
+62,UseTripleBeamBalance,428,put the weight until the balance is balanced
+63,UseVolumetricPipette,83,absorb liquid with dropper
+63,UseVolumetricPipette,84,calibrate the liquid
+63,UseVolumetricPipette,85,release liquid
+64,WrapZongzi,497,cone the leaves
+64,WrapZongzi,498,add ingredients into cone
+64,WrapZongzi,499,fold the leaves
+64,WrapZongzi,500,tie the zongzi tightly
+65,InstallAirConditioner,628,install sponge strip
+65,InstallAirConditioner,629,install window panel
+65,InstallAirConditioner,630,fix window board
+65,InstallAirConditioner,631,connect air conditioners and windows
+66,InstallBicycleRack,336,mount the bracket to the back of the car
+66,InstallBicycleRack,337,fix and fasten the upper and lower ropes to car
+66,InstallBicycleRack,338,place the bicycle on the bracket
+66,InstallBicycleRack,339,fasten the strap
+67,InstallCeilingFan,353,close switch
+67,InstallCeilingFan,354,remove old lamp fixed cover
+67,InstallCeilingFan,355,remove old lamp fixed support
+67,InstallCeilingFan,356,install fan bracket
+67,InstallCeilingFan,357,install fan tray
+67,InstallCeilingFan,358,install fan frame
+67,InstallCeilingFan,359,install fans and lights
+68,InstallCeramicTile,161,check ground and layout planning
+68,InstallCeramicTile,162,prepare adhesive
+68,InstallCeramicTile,163,wipe adhesive and bedding layer
+68,InstallCeramicTile,164,cut tiles
+68,InstallCeramicTile,165,tile the wall
+68,InstallCeramicTile,166,fill the gap
+69,PasteScreenProtectorOnPad,331,place label
+69,PasteScreenProtectorOnPad,332,wipe screen
+69,PasteScreenProtectorOnPad,333,paste protector on the screen
+69,PasteScreenProtectorOnPad,334,wipe screen again
+69,PasteScreenProtectorOnPad,335,remove the label
+70,InstallLicensePlateFrame,737,place license plate
+70,InstallLicensePlateFrame,738,place license plate cover
+70,InstallLicensePlateFrame,739,screw and fix the cover
+71,InstallShowerHead,663,replace the old shower head
+71,InstallShowerHead,664,wrap the pipe band
+71,InstallShowerHead,665,install the new shower head
+72,InstallClosestool,410,close the sluice and empty and disconnect the water pipe
+72,InstallClosestool,411,take down the closestool
+72,InstallClosestool,412,remove the old wax ring and clean
+72,InstallClosestool,413,install the new wax ring
+72,InstallClosestool,414,install the closestool again
+72,InstallClosestool,415,connect the water pipe
+73,InstallWoodFlooring,96,prepare the ground floor
+73,InstallWoodFlooring,97,cut the raw boards
+73,InstallWoodFlooring,98,fit on the boards
+73,InstallWoodFlooring,99,knock in the nails
+73,InstallWoodFlooring,100,apply some glue on the borads
+74,InstallCurtain,760,drill in the wall
+74,InstallCurtain,761,install two shelves
+74,InstallCurtain,762,place crossbar on shelves
+74,InstallCurtain,763,hang up curtains
+75,IronClothes,170,get an iron prepared
+75,IronClothes,171,make the clothes wet
+75,IronClothes,172,flip the clothes repeatly
+75,IronClothes,173,put the clothes neatly on a ironing table
+75,IronClothes,174,iron the cloths with the iron
+75,IronClothes,175,hang the ironed clothes
+76,PractiseKarate,494,march into the area and salute
+76,PractiseKarate,495,begin to practise karate
+76,PractiseKarate,496,exit from the area and salute
+77,LubricateALock,398,apply the lubricant on the lock
+77,LubricateALock,399,wipe off the redundant lubricant
+77,LubricateALock,400,insert the key repeatly
+78,MakePaperDice,348,fold or bent paper
+78,MakePaperDice,349,put paper together
+78,MakePaperDice,350,cut paper
+78,MakePaperDice,351,paint on the paper
+78,MakePaperDice,352,measure and mark
+79,MakeBurger,22,knead the meat
+79,MakeBurger,23,fry meat
+79,MakeBurger,24,combine meat and bread to make burger
+80,MakeCandle,320,put the candle wick into a vessel
+80,MakeCandle,321,fix the candle wick
+80,MakeCandle,322,melt the wax with water
+80,MakeCandle,323,pour the wax into the vessel
+80,MakeCandle,324,wait for the candle until concretion
+81,MakeChineseLantern,51,fold or bent the paper
+81,MakeChineseLantern,52,nail down or stick together
+81,MakeChineseLantern,53,cut the raw materials
+81,MakeChineseLantern,54,draw pictures on the materials
+81,MakeChineseLantern,55,thread and make knots
+81,MakeChineseLantern,56,put the candle in the lantern
+81,MakeChineseLantern,57,measure and label the lantern
+82,MakeCocktail,751,pour into the ingredients
+82,MakeCocktail,752,stir the mixture
+82,MakeCocktail,753,shake the mixture
+82,MakeCocktail,754,pour in after mix it
+82,MakeCocktail,755,decorate with fruit
+83,MakeFrenchFries,203,cut potato into strips
+83,MakeFrenchFries,204,soak them in water
+83,MakeFrenchFries,205,dry strips
+83,MakeFrenchFries,206,put in the oil to fry
+84,MakeHomemadeIceCream,680,pour the ingredients into the bowl
+84,MakeHomemadeIceCream,681,stir the mixture
+84,MakeHomemadeIceCream,682,package and freeze
+84,MakeHomemadeIceCream,683,decorate the ice cream
+85,MakeLambKebab,1,prepare seasonings and side dishes
+85,MakeLambKebab,2,prepare meat
+85,MakeLambKebab,3,mix and pickle
+85,MakeLambKebab,4,string together
+85,MakeLambKebab,5,roast ingredients
+85,MakeLambKebab,6,brush sauce or sprinkle seasoning
+86,MakeMatchaTea,61,prepare tea pots and tea bowls
+86,MakeMatchaTea,62,add tea powder
+86,MakeMatchaTea,63,brew tea and stir
+86,MakeMatchaTea,64,add milk
+87,MakeOrangeJuice,764,cut oranges
+87,MakeOrangeJuice,765,juice the oranges
+87,MakeOrangeJuice,766,pour the orange juice into the cup
+88,MakePickles,484,put the ingredients into the can
+88,MakePickles,485,pour the soup in
+88,MakePickles,486,close cans
+89,MakePizza,37,knead the dough
+89,MakePizza,38,unroll the dough
+89,MakePizza,39,add seasoning
+89,MakePizza,40,bake pizza
+90,MakeRJ45Cable,655,strip the insulation
+90,MakeRJ45Cable,656,arrange the seperated wire
+90,MakeRJ45Cable,657,cut a certain length
+90,MakeRJ45Cable,658,insert it into the crystal head
+90,MakeRJ45Cable,659,fixe it with a crimping pliers
+91,MakeSalad,264,cut ingredients
+91,MakeSalad,265,put the ingredients into the bowl
+91,MakeSalad,266,stir the ingredients
+92,MakeSalmon,25,add seasoning on the salmon
+92,MakeSalmon,26,fry salmon
+92,MakeSalmon,27,add seasoning
+92,MakeSalmon,28,load the dish
+92,MakeSalmon,29,add decoration
+93,MakeSandwich,522,prepare the filler
+93,MakeSandwich,523,cut the bread
+93,MakeSandwich,524,put the filler on the bread slice
+93,MakeSandwich,525,fry or grill
+93,MakeSandwich,526,cut into small pieces
+94,MakeSoap,384,melt the soap block
+94,MakeSoap,385,prepare a vacant vessel
+94,MakeSoap,386,put the melted soap block into the vessel
+94,MakeSoap,387,take out after freezing
+95,MakeStrawberrySmoothie,101,add ice cubes
+95,MakeStrawberrySmoothie,102,put strawberries and other fruits into the juicer
+95,MakeStrawberrySmoothie,103,"put yogurt, honey and other ingredients into the juicer"
+95,MakeStrawberrySmoothie,104,shake and juice
+96,MakeSugarCoatedHaws,191,string the fruit together
+96,MakeSugarCoatedHaws,192,melt the sugar
+96,MakeSugarCoatedHaws,193,soak sugar gourd in sugar
+97,MakeWirelessEarbuds,615,cut the headphone cable
+97,MakeWirelessEarbuds,616,process the copper wire inside the earphone cable
+97,MakeWirelessEarbuds,617,solder the headset cable to the Bluetooth module
+97,MakeWirelessEarbuds,618,wrap in foil paper
+97,MakeWirelessEarbuds,619,wrap in copper wire
+98,MakeBed,124,put the sheet on the bed
+98,MakeBed,125,insert the quilt into the quilt cover
+98,MakeBed,126,put the quilt on the bed
+98,MakeBed,127,insert the pillow into the pillow cover
+98,MakeBed,128,put the pillow on the bed
+99,MakeCoffee,186,boil water or coffee
+99,MakeCoffee,187,grind the coffee beans
+99,MakeCoffee,188,filtrate the coffee beans
+99,MakeCoffee,189,brew the coffee beans
+99,MakeCoffee,190,add some ingredients in the coffee
+100,MakeTea,307,heat the teapot and wash the cup
+100,MakeTea,308,prepare and boil water
+100,MakeTea,309,prepare and add the tea
+100,MakeTea,310,add some water to the tea
+100,MakeTea,311,add some ingredients to the tea
+100,MakeTea,312,pour the tea into the vessel
+101,ChangeMobilePhoneBattery,743,heat the back cover of the phone
+101,ChangeMobilePhoneBattery,744,pick up the back cover of the phone with the cymbal
+101,ChangeMobilePhoneBattery,745,remove the components of the fixed battery
+101,ChangeMobilePhoneBattery,746,remove the tape of the fixed battery
+101,ChangeMobilePhoneBattery,747,take down the old battery
+101,ChangeMobilePhoneBattery,748,put on new tape
+101,ChangeMobilePhoneBattery,749,load a new battery
+101,ChangeMobilePhoneBattery,750,restore the fixed battery components and the back cover
+102,ReplaceMobileScreenProtector,756,remove the original protector
+102,ReplaceMobileScreenProtector,757,wipe the screen
+102,ReplaceMobileScreenProtector,758,line up the protector and the cellphone
+102,ReplaceMobileScreenProtector,759,paste protector on the screen
+103,AttendNBASkillsChallenge,148,do the first layup
+103,AttendNBASkillsChallenge,149,dribble in the field
+103,AttendNBASkillsChallenge,150,pass the basketball into the hole at the first time
+103,AttendNBASkillsChallenge,151,shoot towards the basket
+103,AttendNBASkillsChallenge,152,pass the basketball into the hole at the second time
+103,AttendNBASkillsChallenge,153,dribble and lay up
+104,OpenALockWithPaperclips,89,bent the paperclips by hands
+104,OpenALockWithPaperclips,90,squeeze the paperclips by hands
+104,OpenALockWithPaperclips,91,insert the paperclips into the lock hole
+104,OpenALockWithPaperclips,92,twist the paperclips by hands
+105,OpenChampagneBottle,179,tear out the foil
+105,OpenChampagneBottle,180,turn the suspension link
+105,OpenChampagneBottle,181,open the bottle carefully
+106,OperateFireExtinguisher,740,pull out the insurance ring
+106,OperateFireExtinguisher,741,spray experimentally to check
+106,OperateFireExtinguisher,742,spray towards the fire
+107,PackSleepingBag,297,pack the sleeping bag
+107,PackSleepingBag,298,tie the bag tightly
+108,PerformPaperToMoneyTrick,535,show the blank paper
+108,PerformPaperToMoneyTrick,536,fold or fire the blank paper
+108,PerformPaperToMoneyTrick,537,show the money to the audience
+109,MakePaperWindMill,239,fold the edges of the paper
+109,MakePaperWindMill,240,cut along the edges
+109,MakePaperWindMill,241,fold the squares inward and fix them
+109,MakePaperWindMill,242,fix the wind mill on the bracket
+110,ParkParallel,689,drive the car forward
+110,ParkParallel,690,drive the car backward
+110,ParkParallel,691,adjust front and back position
+111,GiveAnIntramuscularInjection,624,fill the injection head
+111,GiveAnIntramuscularInjection,625,disinfect the injecting place
+111,GiveAnIntramuscularInjection,626,inject to the muscular
+111,GiveAnIntramuscularInjection,627,pull out the needle and press
+112,PerformCPR,448,call emergency number
+112,PerformCPR,449,check the breath of the patient
+112,PerformCPR,450,check the foreign matter in the mouse
+112,PerformCPR,451,do artificial breathing to the patient
+112,PerformCPR,452,check the pulse of the patient
+112,PerformCPR,453,press the chest of the patient
+113,PitchATent,142,clean up the ground
+113,PitchATent,143,lay the cushion evenly
+113,PitchATent,144,set up the brackets
+113,PitchATent,145,set up the platfond
+113,PitchATent,146,fix the ground nail
+113,PitchATent,147,put the waterproof cover
+114,PlantTree,221,dig a pit with proper size
+114,PlantTree,222,fill the tree into the pit
+114,PlantTree,223,fill the pit with some soil
+114,PlantTree,224,pour water to the tree
+115,PlayFrisbeeWithADog,176,chase for the frisbee
+115,PlayFrisbeeWithADog,177,catch the frisbee with mouse
+115,PlayFrisbeeWithADog,178,bring the frisbee back
+116,PractisePoleVault,373,begin to run up
+116,PractisePoleVault,374,begin to jump up
+116,PractisePoleVault,375,fall to the ground
+117,PrepareCanvas,243,pour the gesso to the canvas
+117,PrepareCanvas,244,brush the gesso evenly
+118,PrepareStandardSolution,289,weigh up the solute
+118,PrepareStandardSolution,290,transfer and dissolve the solute
+118,PrepareStandardSolution,291,add water into the volumetric flask to the tick line
+118,PrepareStandardSolution,292,transfer the solution and label
+119,PrepareSumiInk,735,add some water to the vessel
+119,PrepareSumiInk,736,grind roundly and evenly
+120,PumpUpBicycleTire,245,screw off the valve cap and open the valve
+120,PumpUpBicycleTire,246,install the air nozzle
+120,PumpUpBicycleTire,247,pump up to the tire
+120,PumpUpBicycleTire,248,remove the air nozzle
+120,PumpUpBicycleTire,249,tighten the valve and screw on the valve cap
+121,PutOnQuiltCover,137,turn over the quilt cover
+121,PutOnQuiltCover,138,put nicely and align the quilt and the cover
+121,PutOnQuiltCover,139,roll the quilt cover and the quilt together
+121,PutOnQuiltCover,140,take out the quilt cover from another side
+121,PutOnQuiltCover,141,put and arrange nicely
+122,PutOnHairExtensions,325,pull up the hair to reserve place for the hair extensions
+122,PutOnHairExtensions,326,put on the hair extensions
+122,PutOnHairExtensions,327,put down the hair and comb
+123,RefillFountainPen,732,take off the shell
+123,RefillFountainPen,733,absorb some ink slowly
+123,RefillFountainPen,734,clean the fountain pen with napkin
+124,RefillALighter,481,press the fuel nozzle
+124,RefillALighter,482,pump up the fuel
+124,RefillALighter,483,lighten the lighter to check
+125,RefillAStapler,648,pull open the stapler
+125,RefillAStapler,649,insert the stapler pins
+125,RefillAStapler,650,close up the stapler
+126,RefillCartridge,86,take out the label
+126,RefillCartridge,87,inject the ink to the cartridge
+126,RefillCartridge,88,stick on the label
+127,RemoveScratchesFromWindshield,491,spray the cleaning agent on the car window
+127,RemoveScratchesFromWindshield,492,apply the cleaning agent with towel evenly
+127,RemoveScratchesFromWindshield,493,wipe off the cleaning agent
+128,ReplaceABulb,75,remove the light shell/housing/support
+128,ReplaceABulb,76,take out the old bulb
+128,ReplaceABulb,77,install the new bulb
+128,ReplaceABulb,78,install the light shell/housing/support
+129,ReplaceAWiperHead,573,take out the wiper
+129,ReplaceAWiperHead,574,take out the old rubber sleeve from the wiper head
+129,ReplaceAWiperHead,575,take out the blade from the old rubber sleeve
+129,ReplaceAWiperHead,576,put the balde into the new rubber sleeve
+129,ReplaceAWiperHead,577,put the new rubber sleeve into the wiper head
+129,ReplaceAWiperHead,578,install the wiper back
+130,ReplaceBladeOfASaw,720,turn off the balde screw
+130,ReplaceBladeOfASaw,721,take out the blade
+130,ReplaceBladeOfASaw,722,install the new blade
+130,ReplaceBladeOfASaw,723,tighten the blade screw
+131,ReplaceCDDriveWithSSD,212,take out the laptop CD drive
+131,ReplaceCDDriveWithSSD,213,screw off the screws and sheetmetals and baffles on the both sides of the CD drive
+131,ReplaceCDDriveWithSSD,214,install the SSD onto the hard disk tray
+131,ReplaceCDDriveWithSSD,215,install the screws and sheetmetals and baffles onto the hard disk tray
+131,ReplaceCDDriveWithSSD,216,insert the hard disk tray into the position of the CD drive
+132,ReplaceCarFuse,465,open up the cover
+132,ReplaceCarFuse,466,take out the fuse
+132,ReplaceCarFuse,467,fit on the fuse
+132,ReplaceCarFuse,468,close up the cover
+133,ReplaceDoorKnob,416,remove the door knob
+133,ReplaceDoorKnob,417,remove the bolt and pin board
+133,ReplaceDoorKnob,418,install the new pin board
+133,ReplaceDoorKnob,419,install the new bolt
+133,ReplaceDoorKnob,420,install the new door knob
+134,ReplaceDrumhead,620,screw off the screws
+134,ReplaceDrumhead,621,remove the drumhead
+134,ReplaceDrumhead,622,replace with the new drumhead
+134,ReplaceDrumhead,623,screw on the screws
+135,ReplaceElectricalOutlet,770,switch off the power
+135,ReplaceElectricalOutlet,771,screw off the screws used to fix the switch
+135,ReplaceElectricalOutlet,772,use electricity meter to check the power supply
+135,ReplaceElectricalOutlet,773,use screwdriver or electirc screwdriver to release the wire in the wall from the switch
+135,ReplaceElectricalOutlet,774,use screwdriver or electirc screwdriver to screw the wire in the wall into the screw of the new switch
+135,ReplaceElectricalOutlet,775,reset the switch and screw on the screws used to fix the switch
+136,ReplaceFaucet,632,close the sluice and empty and disconnect the water pipe
+136,ReplaceFaucet,633,remove the old faucet
+136,ReplaceFaucet,634,install the new faucet
+136,ReplaceFaucet,635,connect the water pipe
+136,ReplaceFaucet,636,open the sluice and test the new faucet
+137,ReplaceFilterForAirPurifier,392,take out the shell
+137,ReplaceFilterForAirPurifier,393,take out the filter
+137,ReplaceFilterForAirPurifier,394,clean up the filter
+137,ReplaceFilterForAirPurifier,395,fit on the filter
+137,ReplaceFilterForAirPurifier,396,fit on the shell
+137,ReplaceFilterForAirPurifier,397,press the resetting button
+138,ReplaceLaptopScreen,504,take out the battery
+138,ReplaceLaptopScreen,505,unscrew the screws used to fix the screen
+138,ReplaceLaptopScreen,506,pull out the screen connector and remove the screen
+138,ReplaceLaptopScreen,507,install the new screen
+138,ReplaceLaptopScreen,508,reset and screw on the screws
+139,ReplaceLightSocket,376,remove the light housing or shell and bulb
+139,ReplaceLightSocket,377,remove the light socket and disconnect the wire
+139,ReplaceLightSocket,378,connect the wire again
+139,ReplaceLightSocket,379,install the light socket
+139,ReplaceLightSocket,380,install the bulb and light housing or shell
+140,ReplaceRefrigeratorWaterFilter,696,take out the old filter
+140,ReplaceRefrigeratorWaterFilter,697,remove the cap of the new filter
+140,ReplaceRefrigeratorWaterFilter,698,install the new filter
+141,ReplaceSIMCard,532,use the needle to open the SIM card slot
+141,ReplaceSIMCard,533,put the SIM card into the SIM card slot
+141,ReplaceSIMCard,534,press the SIM card slot back
+142,ReplaceSewingMachineNeedle,542,unscrew the screw and take out the needle
+142,ReplaceSewingMachineNeedle,543,let the flat side of the new needle towards the jack and insert the new needle
+142,ReplaceSewingMachineNeedle,544,screw on the screw
+143,ReplaceRearviewMirrorGlass,7,remove the old rearview mirror
+143,ReplaceRearviewMirrorGlass,8,cut off the electric wire
+143,ReplaceRearviewMirrorGlass,9,reconnect the electric wire
+143,ReplaceRearviewMirrorGlass,10,reinstall the rearview mirror
+144,ReplaceGraphicsCard,182,take out the shell
+144,ReplaceGraphicsCard,183,remove the old graphics card
+144,ReplaceGraphicsCard,184,install the new graphics card
+144,ReplaceGraphicsCard,185,fit on the shell
+145,ReplaceHardDisk,589,open the laptop rear cover
+145,ReplaceHardDisk,590,remove the old hard disk
+145,ReplaceHardDisk,591,install the new hard disk
+145,ReplaceHardDisk,592,install the laptop rear cover
+146,ReplaceMemoryChip,369,take out the shell
+146,ReplaceMemoryChip,370,remove the old memory chip
+146,ReplaceMemoryChip,371,install the new memory chip
+146,ReplaceMemoryChip,372,fit on the shell
+147,ReplaceToiletSeat,129,take out the screws
+147,ReplaceToiletSeat,130,remove the old toilet seat
+147,ReplaceToiletSeat,131,install the new toilet seat
+147,ReplaceToiletSeat,132,screw on the screws
+148,ResizeWatchBand,250,aim at the pin
+148,ResizeWatchBand,251,push the pin out
+148,ResizeWatchBand,252,aim at the pin
+148,ResizeWatchBand,253,push the pin out
+148,ResizeWatchBand,254,remove the old watch band and reconnect
+148,ResizeWatchBand,255,put the pin in
+148,ResizeWatchBand,256,push the pin in
+149,RewrapBattery,709,remove the old wrapper
+149,RewrapBattery,710,wrap with the new wrapper
+149,RewrapBattery,711,install the insulated shim
+149,RewrapBattery,712,use the air pressure gun or hair drier to flatten the wrapper
+150,RoastChestnut,11,cut a hole on the shell
+150,RoastChestnut,12,clean up and soak
+150,RoastChestnut,13,prepare and boil water
+150,RoastChestnut,14,fry or roast or braise
+150,RoastChestnut,15,take out the shell
+151,SetUpAHamsterCage,421,clean the hamster box
+151,SetUpAHamsterCage,422,pave the box bottom with paper scraps
+151,SetUpAHamsterCage,423,set different kinds of hamster toys
+151,SetUpAHamsterCage,424,put the hamster into the hamster cage
+152,UseSewingMachine,93,put the thread on the spool
+152,UseSewingMachine,94,twine round the thread
+152,UseSewingMachine,95,thread thorugh the needle
+153,ShaveBeard,699,apply cleansing milk to the face
+153,ShaveBeard,700,shave roughly on the face
+153,ShaveBeard,701,apply shaving cream to the face
+153,ShaveBeard,702,shave carefully on the face
+153,ShaveBeard,703,wipe up the face
+153,ShaveBeard,704,do facial care carefully
+154,PractiseSkiingAerials,651,ski down from the hill
+154,PractiseSkiingAerials,652,ski up from the hill
+154,PractiseSkiingAerials,653,rise to the sky
+154,PractiseSkiingAerials,654,fall to the ground
+155,SmashGarlic,365,peel off the garlics
+155,SmashGarlic,366,cut up the garlics
+155,SmashGarlic,367,pour some salt to the garlics
+155,SmashGarlic,368,smash the garlics with the knife face
+156,Sow,579,prepare the soil carefully
+156,Sow,580,apply a cover on the soil
+156,Sow,581,dig some holes on the soil
+156,Sow,582,sow on the soil
+156,Sow,583,cover with some soil
+156,Sow,584,water and fertilize the seeds
+157,AssembleOfficeChair,501,install the wheels for the base
+157,AssembleOfficeChair,502,assemble the cushion and the backrest
+157,AssembleOfficeChair,503,connect the chair and the base
+158,TieBoatToDock,283,circle the rope under the bolt
+158,TieBoatToDock,284,cross the rope to wrap the bolt
+158,TieBoatToDock,285,strain the rope tightly
+159,Transplant,388,trim the plant carefully
+159,Transplant,389,take out the plant
+159,Transplant,390,put in the plant
+159,Transplant,391,fill with some soil
+160,PractiseTripleJump,167,begin to run up
+160,PractiseTripleJump,168,do the first two jumps
+160,PractiseTripleJump,169,do the third jump
+161,ReplaceTyreValveStem,566,deflate the tyre first
+161,ReplaceTyreValveStem,567,remove the air nozzle
+161,ReplaceTyreValveStem,568,install the new air nozzle
+161,ReplaceTyreValveStem,569,inflate the tyre after replacement
+162,UnclogSinkWithBakingSoda,487,add baking soda to the sink hole
+162,UnclogSinkWithBakingSoda,488,add vinegar to the sink hole
+162,UnclogSinkWithBakingSoda,489,add hot water to the sink hole
+162,UnclogSinkWithBakingSoda,490,turn on the water tap to wash
+163,UseVendingMachine,519,insert money into the vending machine
+163,UseVendingMachine,520,press the corresponding button
+163,UseVendingMachine,521,take out the goods
+164,UseEarplugs,660,roll and rub the earplugs
+164,UseEarplugs,661,pull the ears outwards
+164,UseEarplugs,662,insert the earplugs into the ears
+165,MakeSlimeWithGlue,670,add different kinds of ingredients
+165,MakeSlimeWithGlue,671,mix the raw materials
+165,MakeSlimeWithGlue,672,rub and drag the materials
+166,RemoveBlackheadsWithGlue,229,pour some glue to the face
+166,RemoveBlackheadsWithGlue,230,wipe the glue to a layer
+166,RemoveBlackheadsWithGlue,231,reveal the glue from the face
+167,UseJack,110,raise the jack up
+167,UseJack,111,set the underprop
+167,UseJack,112,remove the underprop
+167,UseJack,113,let the jack down
+168,UseRiceCookerToCookRice,217,take out some rice
+168,UseRiceCookerToCookRice,218,soak and wash the rice
+168,UseRiceCookerToCookRice,219,put the washed rice into the rice cooker
+168,UseRiceCookerToCookRice,220,cook the rice by rice cooker
+169,UseSoyMilkMaker,198,pour some soy beans
+169,UseSoyMilkMaker,199,pour some water to the soy milk maker
+169,UseSoyMilkMaker,200,run the soy milk maker
+169,UseSoyMilkMaker,201,filtrate with a filter
+169,UseSoyMilkMaker,202,pour into a glass
+170,UseTappingGun,429,insert the gun head
+170,UseTappingGun,430,remove the protecting cover of the gun head
+170,UseTappingGun,431,insert the glue needle
+170,UseTappingGun,432,hold the gun end and let the gun head aim at the tag brand
+170,UseTappingGun,433,trigger and take out the needle head
+171,UseToaster,267,put a slice of bread in
+171,UseToaster,268,run the toaster and adjust
+171,UseToaster,269,take out the slice of bread
+172,PerformVanishingGlassTrick,767,show the glass to the audience
+172,PerformVanishingGlassTrick,768,block out the glass
+172,PerformVanishingGlassTrick,769,show the vanished glass
+173,UseVolumetricFlask,279,pour the solution to the volumetric flask
+173,UseVolumetricFlask,280,fill the solution to the mark
+173,UseVolumetricFlask,281,seal the volumetric flask
+173,UseVolumetricFlask,282,invert the volumetric flask
+174,WashDog,730,use the body wash
+174,WashDog,731,wash the body wash away
+175,WashHair,509,wet and wash the hair
+175,WashHair,510,apply the shampoo or hair conditioner
+175,WashHair,511,scratch the hair carefully
+175,WashHair,512,make the hair dry
+175,WashHair,513,comb the hair with a comb
+175,WashHair,514,wrap the hair by hands
+175,WashHair,515,pin the hair with some hairpins
+176,WearContactLenses,570,wet and wash hands
+176,WearContactLenses,571,add some cleaner to clean and wet the lenses and take out the lenses
+176,WearContactLenses,572,wear the  contact lenses
+177,WearShinGuards,286,put on the shin guard sleeves or football socks
+177,WearShinGuards,287,insert or put on the shin guard
+177,WearShinGuards,288,wrap on the tape
+178,PractiseWeightLift,454,squat and hold the barbell
+178,PractiseWeightLift,455,pull the barbell to the chin
+178,PractiseWeightLift,456,lift the barbell from the chin over the head
+178,PractiseWeightLift,457,stand up with straight legs
+178,PractiseWeightLift,458,lift the barbell directly over the head
+178,PractiseWeightLift,459,put down the barbell
+179,WrapGiftBox,30,measure the size of the packing paper
+179,WrapGiftBox,31,cut the packing paper
+179,WrapGiftBox,32,stick with the tape and wrap
+179,WrapGiftBox,33,decorate the wrapped gift
