@@ -64,7 +64,7 @@ def find_last_saved_model(model_dir):
 
 if __name__ == "__main__":
     seed_everything(42)
-    continue_to_exp = True
+    continue_to_exp = False
 
     logger = Logger(exp_path="exps/exp1")
 
