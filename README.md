@@ -1,5 +1,5 @@
 # Video Classification on COIN Dataset
-This recipe is also explained in [Medium Blog](https://medium.com/@yozkose3/video-classification-with-pytorch-9b7d76776881). 
+This recipe is also explained in [Medium Blog](https://medium.com/@ayeozk/video-classification-with-pytorch-fa7421f8556f). 
 
 ## Introduction
 In this recipe, we will classify cooking and decoration video clips with Pytorch.
